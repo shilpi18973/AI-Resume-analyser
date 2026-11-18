@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+python-multipart
+pyjwt
+argon2-cffi
+pymupdf
+python-docx
+sentence-transformers
+numpy
